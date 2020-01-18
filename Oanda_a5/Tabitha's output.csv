@@ -1,0 +1,50 @@
+
+inputDirectory/Nanoarchaeum_equitans_Kin4_M.fna
+Number of motifs: 490882
+Rank,Motif,Frequency,Proportion
+1,tttt,10636,0.0217
+2,aaaa,10587,0.0216
+3,tatt,8381,0.0171
+4,aata,8219,0.0167
+5,taaa,7579,0.0154
+6,tata,7519,0.0153
+7,ttta,7443,0.0152
+8,aaat,7202,0.0147
+9,atat,7162,0.0146
+10,attt,7039,0.0143
+
+inputDirectory/test1.fna
+Number of motifs: 15
+Rank,Motif,Frequency,Proportion
+1,tttt,9,0.6000
+2,accg,1,0.0667
+3,ccgg,1,0.0667
+4,cggg,1,0.0667
+5,gggt,1,0.0667
+6,ggtt,1,0.0667
+7,gttt,1,0.0667
+
+inputDirectory/test2.fna
+Number of motifs: 7
+Rank,Motif,Frequency,Proportion
+1,acng,1,0.1429
+2,cngg,1,0.1429
+3,nggn,1,0.1429
+4,ggnt,1,0.1429
+5,gntt,1,0.1429
+6,nttt,1,0.1429
+7,tttn,1,0.1429
+
+inputDirectory/xhumanXM_000000.fna
+Number of motifs: 930
+Rank,Motif,Frequency,Proportion
+1,tcct,15,0.0161
+2,ctcc,15,0.0161
+3,tcca,14,0.0151
+4,catg,14,0.0151
+5,ttcc,13,0.0140
+6,ccac,12,0.0129
+7,cctc,12,0.0129
+8,cttc,12,0.0129
+9,ccat,12,0.0129
+10,cacc,11,0.0118
